@@ -9,7 +9,7 @@ public class Player : MonoBehaviour
     private float horizontal;
 
     [SerializeField]private float speed = 4;
-    [SerializeField]private float jumpForce = 10;
+    [SerializeField]private float jumpForce = 6;
 
     [SerializeField]bool isGrounded;
     
